@@ -1,5 +1,5 @@
 <h1 align="left">About Me 👋</h1>
-
+<div>
 <p align="left">
   I'm Cade Chaplin, a recent graduate with a Bachelor of Science in Software Engineering from Washington State University. 
   I'm passionate about building scalable, user-friendly software and enjoy working with technologies like C#, Python, and React.
